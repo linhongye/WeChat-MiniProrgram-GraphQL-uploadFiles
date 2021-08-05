@@ -1,5 +1,5 @@
 # WeChatMiniProrgram-GraphQL-uploadFiles
-frount-end: WeChat MiniProrgram. 
+front-end: WeChat MiniProrgram. 
 API: GraphQL  
 function: uploadFiles  
 前端: 原生微信小程序   
